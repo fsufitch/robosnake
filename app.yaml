@@ -1,5 +1,5 @@
-application: helloworld
-version: 1
+application: robosnake-1195
+version: alpha0
 runtime: go
 api_version: go1
 
